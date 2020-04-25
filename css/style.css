@@ -16,5 +16,10 @@ p {
   font-family: sans-serif;
 }
 ul {
+  color: white;
+  line-height: 40px;
+}
+ol {
+  color: white;
   line-height: 40px;
 }
