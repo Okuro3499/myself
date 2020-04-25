@@ -9,7 +9,7 @@
 
 ## Setup/Installation Requirements
 {* to run the application:
-   - clone the repository on local machine "https://github.com/Okuro3499/myself.git"
+   - clone the repository on local machine "https://okuro3499.github.io/myself/"
    - cd into directory "cd myself"
    - open index.html on browser
 }
