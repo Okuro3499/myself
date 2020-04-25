@@ -1,6 +1,14 @@
 .intro {
   font-style: italic;
 }
+.author {
+  font-style: oblique;
+  font-size: 12px;
+}
+.p.author {
+  font-style: oblique;
+  font-size: 12px;
+}
 h1 {
   color: blue;
   text-align: center;
