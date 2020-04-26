@@ -34,3 +34,12 @@ ol {
   color: white;
   line-height: 40px;
 }
+.important {
+  background-color: skyblue;
+}
+.unimportant {
+  background-color: beige;
+}
+.cat-climate {
+  background-color: purple;
+}
