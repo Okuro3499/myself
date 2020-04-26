@@ -1,14 +1,3 @@
-.intro {
-  font-style: italic;
-}
-.author {
-  font-style: oblique;
-  font-size: 12px;
-}
-.p.author {
-  font-style: oblique;
-  font-size: 12px;
-}
 h1 {
   color: blue;
   text-align: center;
@@ -36,9 +25,6 @@ ol {
 }
 .important {
   background-color: skyblue;
-}
-.unimportant {
-  background-color: green;
 }
 .cat-climate {
   background-color: purple;
