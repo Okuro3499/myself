@@ -43,3 +43,6 @@ ol {
 .cat-climate {
   background-color: purple;
 }
+img {
+  float: left;
+}
